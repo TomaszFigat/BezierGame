@@ -1,6 +1,5 @@
 # BezierGame
 Simple game made in processing(java).
-University project (Mechatronics faculty).
 Game is based on online game called "The world's hardest game". 
 The task was to implement bezier algorithm in the game.
 In this game trajectories of obstacles are bezier curves.
